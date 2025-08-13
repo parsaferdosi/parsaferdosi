@@ -9,15 +9,21 @@ I design **simple neural network models from scratch** and build web projects wi
 - **Web & Databases:** Django, PostgreSQL, API design, Swagger  
 - **AI & ML:** Simple neural networks from scratch, MNIST, ReLU & Softmax, weights saving/loading  
 - **Tools:** Git/GitHub, Docker, Linux, PyCharm, VSCode  
-- **Other:** Network+  
+- **Other:** Network+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Network+](https://img.shields.io/badge/Network+-0066CC?style=for-the-badge&logo=networking&logoColor=white)
 
 ## Projects
-- **Number Recognition Neural Network (OCR)**  
-  [GitHub Link]  
-
+- **Number Recognition Neural Network (OCR)**
+- https://github.com/parsaferdosi/neural-network
 - **Web Development with Django**  
-  [GitHub Link]  
-
+- https://github.com/parsaferdosi/DjangoProject
 ## Education
 - **B.Sc. Computer Engineering** – Islamic Azad University, North Tehran Branch (Currently Studying)
 
@@ -26,3 +32,4 @@ I design **simple neural network models from scratch** and build web projects wi
 
 ## Contact
 📧 parsaferdosiwork@gmail.com | 📱 +98 996 653 9784
+https://www.linkedin.com/in/parsa-ferdosi-zade-b0628637a/
