@@ -9,7 +9,7 @@ I design **simple neural network models from scratch** and build web projects wi
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 - **Web & Databases:** Django, PostgreSQL, API design, Swagger  
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-- **Tools:** Git/GitHub, Docker, Linux, PyCharm, VSCode  
+- **Tools:** Git/GitHub, Docker, Linux, VSCode  
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 - **Other:** Network+  
   ![Network+](https://img.shields.io/badge/Network+-0066CC?style=for-the-badge&logo=networking&logoColor=white)
