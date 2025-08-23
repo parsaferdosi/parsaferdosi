@@ -16,7 +16,7 @@ I design **simple neural network models from scratch** and build web projects wi
 
 ## Projects
 - **[Number Recognition Neural Network (OCR)](https://github.com/parsaferdosi/neural-network)**
-- **[Web Development with Django](https://github.com/parsaferdosi/DjangoProject)**
+- **[Web Development with Django](https://github.com/parsaferdosi/UserApp)**
 
 ## Education
 - **B.Sc. Computer Engineering** – Islamic Azad University, North Tehran Branch (Currently Studying)
