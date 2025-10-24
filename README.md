@@ -25,5 +25,5 @@ I design **simple neural network models from scratch** and build web projects wi
 - Django Beginner Course, Jahad Daneshgahi, Tehran
 
 ## Contact
-📧 ferdosizadep@gmail.com | 📱 +98 996 653 9784 | [LinkedIn](https://www.linkedin.com/in/parsa-ferdosi-zade-b0628637a/)
+📧 ferdosizadep@gmail.com | 📱 +98 996 653 6784 | [LinkedIn](https://www.linkedin.com/in/parsa-ferdosi-zade-b0628637a/)
 
